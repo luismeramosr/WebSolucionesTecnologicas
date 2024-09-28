@@ -1,0 +1,32 @@
+{
+  "main": [
+    {
+      "name": "Nosotros",
+      "url": "/nosotros"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+
+    {
+      "name": "Términos y Condiciones",
+      "url": "/terminos-y-condiciones"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contacto"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "Trabaja con nosotros",
+      "url": "/empleo"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contacto"
+    }
+  ]
+}
